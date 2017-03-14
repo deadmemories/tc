@@ -1,0 +1,1883 @@
+
+Error : Incorrect name for method
+Error in /var/www/tc-framework/core/routers/Router.php on line 42 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(60): core\routers\Router->__call('getCurrentUrlq', Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(55): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect name for method
+Error in /var/www/tc-framework/core/routers/Router.php on line 42 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(73): core\routers\Router->__call('initRout', Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(55): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 99 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(79): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 99 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(79): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 99 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(79): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 99 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(79): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 99 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(79): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 99 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(79): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 99 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(79): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 99 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(79): core\routers\BaseRoute->initRout(NULL)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 99 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(79): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 99 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(79): core\routers\BaseRoute->initRout('1')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 99 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(79): core\routers\BaseRoute->initRout('1')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 99 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(79): core\routers\BaseRoute->initRout('user/1')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect name for method
+Error in /var/www/tc-framework/core/routers/Router.php on line 42 with 
+#0 [internal function]: core\routers\Router->__call('methodName', Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(110): call_user_func_array(Array, Array)
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#4 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#5 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#6 {main}
+Error : Incorrect name for method
+Error in /var/www/tc-framework/core/routers/Router.php on line 42 with 
+#0 [internal function]: core\routers\Router->__call('methodName', Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(110): call_user_func_array(Array, Array)
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#4 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#5 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#6 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(59): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(59): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 111 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(91): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 111 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(91): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 111 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(91): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 111 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(91): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 111 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(91): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 111 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(91): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 113 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(93): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 113 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(93): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 113 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(93): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 113 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(93): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 113 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(93): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 113 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(93): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 113 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(93): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 113 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(93): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 113 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(93): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 113 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(93): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 113 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(93): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 113 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(93): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 113 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(93): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 113 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(93): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 113 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(93): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 113 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(93): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 113 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(93): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 113 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(93): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 107 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(87): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 107 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(87): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 107 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(87): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 107 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(87): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 107 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(87): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 107 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(87): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 107 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(87): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 107 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(87): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 107 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(87): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 107 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(87): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 107 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(87): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 107 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(87): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(56): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 100 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 100 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 100 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 100 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 100 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 100 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 100 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 100 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(82): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 104 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(84): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 104 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(84): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 100 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 100 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 100 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 102 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(23): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(23): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(17): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(17): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(17): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(17): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(17): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(17): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 111 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 111 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 111 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 111 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 112 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 120 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(24): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 122 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(24): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 122 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(24): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 121 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(24): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 121 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(24): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 121 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(24): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 120 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(24): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 120 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(24): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 120 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 120 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('\\Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 120 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('\\Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 120 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('\\Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 120 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('\\Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 120 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('\\Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 120 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(17): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(17): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(17): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(17): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(17): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(17): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(17): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(17): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(17): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(17): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(17): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(19): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(12): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(19): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(12): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(19): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(12): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(19): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(12): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(20): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(12): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(20): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(12): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(19): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(12): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(19): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(12): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(19): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(12): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(19): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(12): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(19): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(12): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 113 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(19): core\container\ServiceContainer->bildClass('Route')
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(61): route()
+#2 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#3 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#4 /var/www/tc-framework/public/index.php(12): core\Application->run()
+#5 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(10): core\container\ServiceContainer->bildClass('Config')
+#1 /var/www/tc-framework/core/Application.php(15): config()
+#2 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#3 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(10): core\container\ServiceContainer->bildClass('Config')
+#1 /var/www/tc-framework/core/Application.php(15): config()
+#2 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#3 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(10): core\container\ServiceContainer->bildClass('Config')
+#1 /var/www/tc-framework/core/Application.php(15): config()
+#2 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#3 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(10): core\container\ServiceContainer->bildClass('Config')
+#1 /var/www/tc-framework/core/Application.php(15): config()
+#2 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#3 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(10): core\container\ServiceContainer->bildClass('Config')
+#1 /var/www/tc-framework/core/Application.php(15): config()
+#2 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#3 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(10): core\container\ServiceContainer->bildClass('Config')
+#1 /var/www/tc-framework/core/Application.php(15): config()
+#2 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#3 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(10): core\container\ServiceContainer->bildClass('Config')
+#1 /var/www/tc-framework/core/Application.php(15): config()
+#2 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#3 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(10): core\container\ServiceContainer->bildClass('Config')
+#1 /var/www/tc-framework/core/Application.php(15): config()
+#2 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#3 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(10): core\container\ServiceContainer->bildClass('Config')
+#1 /var/www/tc-framework/core/Application.php(15): config()
+#2 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#3 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(10): core\container\ServiceContainer->bildClass('Config')
+#1 /var/www/tc-framework/core/Application.php(15): config()
+#2 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#3 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(10): core\container\ServiceContainer->bildClass('config')
+#1 /var/www/tc-framework/core/Application.php(15): config()
+#2 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#3 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(10): core\container\ServiceContainer->bildClass('config')
+#1 /var/www/tc-framework/core/Application.php(15): config()
+#2 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#3 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(10): core\container\ServiceContainer->bildClass('config')
+#1 /var/www/tc-framework/core/Application.php(15): config()
+#2 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#3 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(10): core\container\ServiceContainer->bildClass('config')
+#1 /var/www/tc-framework/core/Application.php(15): config()
+#2 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#3 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(11): core\container\ServiceContainer->bildClass('config')
+#1 /var/www/tc-framework/core/Application.php(15): config()
+#2 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#3 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(11): core\container\ServiceContainer->bildClass('config')
+#1 /var/www/tc-framework/core/Application.php(15): config()
+#2 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#3 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(22): core\container\ServiceContainer->bildClass('Cookie')
+#1 /var/www/tc-framework/app/routers/main.php(4): cookie()
+#2 [internal function]: core\Application->{closure}()
+#3 /var/www/tc-framework/core/routers/BaseRoute.php(97): call_user_func(Object(Closure))
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(80): core\routers\BaseRoute->initRout(Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(53): core\routers\BaseRoute->startRoute()
+#6 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#7 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#8 {main}
