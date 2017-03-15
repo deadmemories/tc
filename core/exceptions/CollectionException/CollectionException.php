@@ -1,10 +1,14 @@
 <?php
 
-namespace core\exceptions\RouterException;
+namespace core\exceptions\CollectionException;
 
 use core\traits\Files;
 
-class RouterException extends \Exception
+/**
+ * Исключения для работы с классом Collection (коллекция)
+ *
+ */
+class CollectionException extends \Exception
 {
     use Files;
 

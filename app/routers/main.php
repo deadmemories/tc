@@ -1,14 +1,16 @@
 <?php
 
-Route::get('/', function() {
-    cookie()->set('login', 'DeadMoras');
-    var_dump(cookie()->has('login'));
-});
+Route::get('/', '\app\controllers\index\MainController@methodName');
 
 Route::get('/url', '\app\controllers\index\MainController@methodName');
 
-Route::get('/user/{integer}', '\app\controllers\index\MainController@methodName', [
+Route::post('/test', '\app\controllers\index\MainController@getPost');
+
+Route::get(
+    '/user/{integer}', '\app\controllers\index\MainController@methodName', [
     'middleware' => [
-        'name', 'name2'
-    ]
-]);
+        'name',
+        'name2',
+    ],
+]
+);

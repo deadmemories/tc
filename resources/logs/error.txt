@@ -1,0 +1,1404 @@
+
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(28): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(28): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(29): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection')
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection')
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection')
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection')
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection')
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection')
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection')
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection')
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection')
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 105 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection')
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(149): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(120): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 107 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(153): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(124): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 107 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(153): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(124): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 107 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(153): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(124): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 107 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(153): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(124): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 107 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(153): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(124): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 107 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(153): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(124): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 107 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(153): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(124): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 107 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(153): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(124): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 107 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(153): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(124): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 107 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(153): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(124): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 107 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(151): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(122): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 107 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(19): collect()
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(151): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(122): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 107 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(20): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(151): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(122): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect key...
+Error in /var/www/tc-framework/core/container/ServiceContainer.php on line 107 with 
+#0 /var/www/tc-framework/core/helpers/functions.php(27): core\container\ServiceContainer->bildClass('Collection', Array)
+#1 /var/www/tc-framework/core/response/Response.php(20): collect(Array)
+#2 /var/www/tc-framework/core/request/Request.php(42): core\response\Response->__construct()
+#3 /var/www/tc-framework/core/container/ServiceContainer.php(151): core\request\Request->__construct()
+#4 /var/www/tc-framework/core/container/ServiceContainer.php(122): core\container\ServiceContainer->instance('\\core\\request\\R...')
+#5 /var/www/tc-framework/core/Application.php(15): core\container\ServiceContainer->onlyLoadClass(Array)
+#6 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#7 {main}
+Error : Incorrect path to class
+Error in /var/www/tc-framework/core/routers/BaseRoute.php on line 130 with 
+#0 /var/www/tc-framework/core/routers/BaseRoute.php(105): core\routers\BaseRoute->initRout(Array)
+#1 /var/www/tc-framework/core/routers/BaseRoute.php(74): core\routers\BaseRoute->startRoute()
+#2 /var/www/tc-framework/core/Application.php(22): core\routers\BaseRoute->initRouters()
+#3 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#4 {main}
+Error : Incorrect path to file
+Error in /var/www/tc-framework/core/views/View.php on line 65 with 
+#0 /var/www/tc-framework/core/views/View.php(26): core\views\View->pathForFile(Object(core\collection\Collection))
+#1 /var/www/tc-framework/core/helpers/functions.php(39): core\views\View->showView(Array, Array)
+#2 /var/www/tc-framework/app/controllers/index/MainController.php(14): view(Array, Array)
+#3 [internal function]: app\controllers\index\MainController->methodName()
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(138): call_user_func_array(Array, Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(105): core\routers\BaseRoute->initRout(Array)
+#6 /var/www/tc-framework/core/routers/BaseRoute.php(74): core\routers\BaseRoute->startRoute()
+#7 /var/www/tc-framework/core/Application.php(23): core\routers\BaseRoute->initRouters()
+#8 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#9 {main}
+Error : Incorrect path to file
+Error in /var/www/tc-framework/core/views/View.php on line 65 with 
+#0 /var/www/tc-framework/core/views/View.php(26): core\views\View->pathForFile(Object(core\collection\Collection))
+#1 /var/www/tc-framework/core/helpers/functions.php(39): core\views\View->showView(Array, Array)
+#2 /var/www/tc-framework/app/controllers/index/MainController.php(14): view(Array, Array)
+#3 [internal function]: app\controllers\index\MainController->methodName()
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(138): call_user_func_array(Array, Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(105): core\routers\BaseRoute->initRout(Array)
+#6 /var/www/tc-framework/core/routers/BaseRoute.php(74): core\routers\BaseRoute->startRoute()
+#7 /var/www/tc-framework/core/Application.php(23): core\routers\BaseRoute->initRouters()
+#8 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#9 {main}
+Error : Incorrect path to file
+Error in /var/www/tc-framework/core/views/View.php on line 66 with 
+#0 /var/www/tc-framework/core/views/View.php(26): core\views\View->pathForFile(Object(core\collection\Collection))
+#1 /var/www/tc-framework/core/helpers/functions.php(39): core\views\View->showView(Array, Array)
+#2 /var/www/tc-framework/app/controllers/index/MainController.php(14): view(Array, Array)
+#3 [internal function]: app\controllers\index\MainController->methodName()
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(138): call_user_func_array(Array, Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(105): core\routers\BaseRoute->initRout(Array)
+#6 /var/www/tc-framework/core/routers/BaseRoute.php(74): core\routers\BaseRoute->startRoute()
+#7 /var/www/tc-framework/core/Application.php(23): core\routers\BaseRoute->initRouters()
+#8 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#9 {main}
+Error : Incorrect path to file
+Error in /var/www/tc-framework/core/views/View.php on line 52 with 
+#0 /var/www/tc-framework/core/views/View.php(26): core\views\View->pathForFile('index', 'php')
+#1 /var/www/tc-framework/core/helpers/functions.php(39): core\views\View->showView('index', Array, '')
+#2 /var/www/tc-framework/app/controllers/index/MainController.php(11): view('index', Array)
+#3 [internal function]: app\controllers\index\MainController->methodName()
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(138): call_user_func_array(Array, Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(105): core\routers\BaseRoute->initRout(Array)
+#6 /var/www/tc-framework/core/routers/BaseRoute.php(74): core\routers\BaseRoute->startRoute()
+#7 /var/www/tc-framework/core/Application.php(23): core\routers\BaseRoute->initRouters()
+#8 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#9 {main}
+Error : Incorrect path to file
+Error in /var/www/tc-framework/core/views/View.php on line 52 with 
+#0 /var/www/tc-framework/core/views/View.php(26): core\views\View->pathForFile('index', 'php')
+#1 /var/www/tc-framework/core/helpers/functions.php(39): core\views\View->showView('index', Array, '')
+#2 /var/www/tc-framework/app/controllers/index/MainController.php(11): view('index', Array)
+#3 [internal function]: app\controllers\index\MainController->methodName()
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(138): call_user_func_array(Array, Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(105): core\routers\BaseRoute->initRout(Array)
+#6 /var/www/tc-framework/core/routers/BaseRoute.php(74): core\routers\BaseRoute->startRoute()
+#7 /var/www/tc-framework/core/Application.php(23): core\routers\BaseRoute->initRouters()
+#8 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#9 {main}
+Error : Incorrect path to file
+Error in /var/www/tc-framework/core/views/View.php on line 51 with 
+#0 /var/www/tc-framework/core/views/View.php(26): core\views\View->pathForFile('index', 'php')
+#1 /var/www/tc-framework/core/helpers/functions.php(39): core\views\View->showView('index', Array, '')
+#2 /var/www/tc-framework/app/controllers/index/MainController.php(11): view('index', Array)
+#3 [internal function]: app\controllers\index\MainController->methodName()
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(138): call_user_func_array(Array, Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(105): core\routers\BaseRoute->initRout(Array)
+#6 /var/www/tc-framework/core/routers/BaseRoute.php(74): core\routers\BaseRoute->startRoute()
+#7 /var/www/tc-framework/core/Application.php(23): core\routers\BaseRoute->initRouters()
+#8 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#9 {main}
+Error : Incorrect path to file
+Error in /var/www/tc-framework/core/views/View.php on line 53 with 
+#0 /var/www/tc-framework/core/views/View.php(26): core\views\View->pathForFile('index', 'php')
+#1 /var/www/tc-framework/core/helpers/functions.php(39): core\views\View->showView('index', Array, '')
+#2 /var/www/tc-framework/app/controllers/index/MainController.php(11): view('index', Array)
+#3 [internal function]: app\controllers\index\MainController->methodName()
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(138): call_user_func_array(Array, Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(105): core\routers\BaseRoute->initRout(Array)
+#6 /var/www/tc-framework/core/routers/BaseRoute.php(74): core\routers\BaseRoute->startRoute()
+#7 /var/www/tc-framework/core/Application.php(23): core\routers\BaseRoute->initRouters()
+#8 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#9 {main}
+Error : Incorrect path to file
+Error in /var/www/tc-framework/core/views/View.php on line 53 with 
+#0 /var/www/tc-framework/core/views/View.php(26): core\views\View->pathForFile('index', 'php')
+#1 /var/www/tc-framework/core/helpers/functions.php(39): core\views\View->showView('index', Array, '')
+#2 /var/www/tc-framework/app/controllers/index/MainController.php(11): view('index', Array)
+#3 [internal function]: app\controllers\index\MainController->methodName()
+#4 /var/www/tc-framework/core/routers/BaseRoute.php(138): call_user_func_array(Array, Array)
+#5 /var/www/tc-framework/core/routers/BaseRoute.php(105): core\routers\BaseRoute->initRout(Array)
+#6 /var/www/tc-framework/core/routers/BaseRoute.php(74): core\routers\BaseRoute->startRoute()
+#7 /var/www/tc-framework/core/Application.php(23): core\routers\BaseRoute->initRouters()
+#8 /var/www/tc-framework/public/index.php(5): core\Application->run()
+#9 {main}

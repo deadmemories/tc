@@ -28,9 +28,7 @@ trait ParseUrl
     public static function replaceUrl(string $key)
     {
         return preg_replace(
-            array_keys(self::$patterns),
-            array_values(self::$patterns),
-            $key
+            array_keys(self::$patterns), array_values(self::$patterns), $key
         );
     }
 }

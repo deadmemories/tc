@@ -90,10 +90,12 @@ class ServiceContainer
     /**
      * @param string $key
      *
+     * @param null   $params
+     *
      * @return mixed
-     * @throws \Exception
+     * @throws ContainerException
      */
-    public function bildClass(string $key)
+    public function bildClass(string $key, $params = null)
     {
         $object = null;
 
@@ -105,7 +107,7 @@ class ServiceContainer
             throw new ContainerException('Incorrect key...');
         }
 
-        return $this->instance($object);
+        return $this->instance($object, $params);
     }
 
     /**
@@ -142,8 +144,12 @@ class ServiceContainer
             $key = '\\'.$key;
         }
 
-        $reflection = new $key;
+        if ( ! is_null($parameters)) {
+            $reflection = new \ReflectionClass($key);
 
-        return $reflection;
+            return $reflection->newInstanceArgs($parameters);
+        } else {
+            return new $key;
+        }
     }
 }

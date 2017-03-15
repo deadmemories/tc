@@ -11,6 +11,7 @@ class Application
      */
     public function run(): void
     {
+        ini_set('include_path', '/var/www/tc-framework/');
         // Загружаем классы в приложение из app ( load classes in app from app.required)
         app()->onlyLoadClass(config()->get('app.required'));
 
@@ -23,7 +24,7 @@ class Application
     }
 
     /**
-     *
+     * Загрузка алиассов
      */
     private function loadAliases(): void
     {

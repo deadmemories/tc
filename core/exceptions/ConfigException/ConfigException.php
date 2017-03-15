@@ -19,9 +19,8 @@ class ConfigException extends \Exception
 
         $this->writeToFile(
             '../resources/logs/error.txt',
-            "\n"."Error : ".$message."\n".'Error in '.$this->getFile()
-            .' on line '.$this->getLine()
-            .' with '."\n".$this->getTraceAsString()
+            "\n"."Error : ".$message."\n".'Error in '.$this->getFile().' on line '.$this->getLine().' with '."\n"
+            .$this->getTraceAsString()
         );
     }
 }

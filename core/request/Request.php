@@ -2,32 +2,37 @@
 
 namespace core\request;
 
+use core\cookie\Cookie;
+use core\response\Response;
+
 class Request
 {
-    /**
-     * @var string
-     *
-     * the request method
-     */
-    protected $method = '';
-
     /**
      * @var array
      *
      * The request cookies
      */
-    protected $cookies;
+    public $cookies;
+
+    /**
+     * @var
+     *
+     * The response
+     */
+    public $response;
 
     /**
      * @var
      */
-    protected $uploadFiles;
+    public $uploadedFiles;
 
     /**
      * Request constructor.
      */
     public function __construct()
     {
-
+        $this->cookies = new Cookie;
+        (object) $this->response = new Response;
+        $this->uploadedFiles = new UploadedFiles;
     }
 }

@@ -56,6 +56,6 @@ class Router extends BaseRoute
     {
         $this->currentUrl = $this->returnCurrentUrl();
 
-        return empty($this->currentUrl) ? null : $this->currentUrl;
+        return !empty($this->currentUrl) ? $this->currentUrl : null;
     }
 }

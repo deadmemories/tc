@@ -2,7 +2,7 @@
 
 namespace core\interfaces\collection;
 
-interface CollecitonInterface
+interface CollectionInterface
 {
     public function set(string $key, $value);
 

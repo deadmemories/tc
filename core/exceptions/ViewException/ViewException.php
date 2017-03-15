@@ -1,10 +1,14 @@
 <?php
 
-namespace core\exceptions\RouterException;
+namespace core\exceptions\ViewException;
 
 use core\traits\Files;
 
-class RouterException extends \Exception
+/**
+ * Исключения для работы с классом View (вьюха)
+ *
+ */
+class ViewException extends \Exception
 {
     use Files;
 

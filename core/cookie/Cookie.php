@@ -7,6 +7,11 @@ use core\interfaces\cookie\CookieInterface;
 
 class Cookie implements CookieInterface
 {
+//    public function __construct()
+//    {
+//        return collect([$_COOKIE]);
+//    }
+
     /**
      * @param      $key
      * @param      $value
@@ -22,7 +27,9 @@ class Cookie implements CookieInterface
     {
         $value = Hash::encrypt($value);
 
-        $time = ($minutes == 0) ? 0 : Carbon::now()->getTimestamp() + ($minutes * 60);
+        $time = ($minutes == 0)
+            ? 0
+            : Carbon::now()->getTimestamp() + ($minutes * 60);
 
         setcookie($key, $value, $time, $path, $domain, $secure, $httponly);
 
@@ -36,7 +43,9 @@ class Cookie implements CookieInterface
      */
     public function get($key)
     {
-        return $this->has($key) ? 'Nothing' : Hash::decrypt($_COOKIE[$key]);
+        return $this->has($key)
+            ? 'Nothing'
+            : Hash::decrypt($_COOKIE[$key]);
     }
 
     /**
@@ -46,7 +55,9 @@ class Cookie implements CookieInterface
      */
     public function has($key): bool
     {
-        return !empty($_COOKIE[$key]) ? true : false;
+        return ! empty($_COOKIE[$key])
+            ? true
+            : false;
     }
 
     /**

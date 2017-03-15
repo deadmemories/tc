@@ -36,12 +36,33 @@ class BaseRoute
      */
     public static function get(...$arguments): void
     {
+        static::addRouter('GET', $arguments);
+    }
+
+    /**
+     * @param array ...$arguments
+     */
+    public static function post(...$arguments): void
+    {
+        static::addRouter('POST', $arguments);
+    }
+
+    /**
+     * @param string $method
+     * @param        $arguments
+     */
+    private static function addRouter(string $method, $arguments): void
+    {
+        $collection = collect([$arguments]);
+
         self::$routers[] = [
-            'method'     => 'get',
-            'url'        => static::replaceUrl($arguments[0]),
-            'parse_url'  => static::parse($arguments[0]),
-            'call'       => $arguments[1],
-            'middleware' => ! empty($arguments[2]) && is_array($arguments[2]) ? $arguments[2]['middleware'] : null,
+            'method'     => $method,
+            'url'        => static::replaceUrl($collection->get(0)),
+            'parse_url'  => static::parse($collection->get(0)),
+            'call'       => $collection->get(1),
+            'middleware' => $collection->has(2) && is_array($arguments[2])
+                ? $collection->get(2)['middleware']
+                : null,
         ];
     }
 
@@ -70,6 +91,10 @@ class BaseRoute
             if (preg_match_all(
                 '#^'.$uri.'$#', $currentUrl, $matches, PREG_SET_ORDER
             )) {
+                if (route()->getRequestMethod() != $v['method']) {
+                    throw new \Exception('Incorrect request method');
+                }
+
                 $matches['call'] = $v['call'];
                 $matches['middleware'] = $v['middleware'];
                 break;

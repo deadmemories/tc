@@ -2,9 +2,10 @@
 
 namespace core\collection;
 
-use core\interfaces\collection\CollecitonInterface;
+use core\exceptions\CollectionException\CollectionException;
+use core\interfaces\collection\CollectionInterface;
 
-class Collection implements CollecitonInterface
+class Collection implements CollectionInterface
 {
     /**
      * @var array
@@ -15,9 +16,15 @@ class Collection implements CollecitonInterface
      * Collection constructor.
      *
      * @param array $items
+     *
+     * @throws CollectionException
      */
     public function __construct(array $items = [])
     {
+        if ( ! is_array($items)) {
+            throw new CollectionException('Arguments must be array');
+        }
+
         $this->replace($items);
     }
 
@@ -42,7 +49,9 @@ class Collection implements CollecitonInterface
      */
     public function get(string $key, $default = null)
     {
-        return $this->has($key) ? $this->data[$key] : $default;
+        return $this->has($key)
+            ? $this->data[$key]
+            : $default;
     }
 
     /**
@@ -81,6 +90,65 @@ class Collection implements CollecitonInterface
     public function all(): array
     {
         return $this->data;
+    }
+
+    /**
+     * @param array|string $keys
+     *
+     * @return $this
+     * @throws CollectionException
+     */
+    public function except($keys)
+    {
+        if (is_string($keys)) {
+            $this->exceptOne($keys);
+        } elseif (is_array($keys)) {
+            $this->exceptMany($keys);
+        } else {
+            throw new CollectionException('argument for except must be array or string');
+        }
+
+        return $this;
+    }
+
+    /**
+     * @param string $key
+     */
+    private function exceptOne(string $key)
+    {
+        if ($this->has($key)) {
+            $this->remove($key);
+        }
+    }
+
+    /**
+     * @param $keys
+     */
+    private function exceptMany($keys)
+    {
+        foreach ($keys as $k) {
+            if ($this->has($k)) {
+                $this->remove($k);
+            }
+        }
+    }
+
+    /**
+     * @param array $keys
+     *
+     * @return Collection
+     */
+    public function only(array $keys)
+    {
+        $array = [];
+
+        foreach ($keys as $k) {
+            if ($this->has($k)) {
+                $array[$k] = $this->data[$k];
+            }
+        }
+
+        return new self($array);
     }
 
     /**
