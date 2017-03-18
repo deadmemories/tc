@@ -60,9 +60,6 @@ class BaseRoute
             'url'        => static::replaceUrl($collection->get(0)),
             'parse_url'  => static::parse($collection->get(0)),
             'call'       => $collection->get(1),
-            'middleware' => $collection->has(2) && is_array($arguments[2])
-                ? $collection->get(2)['middleware']
-                : null,
         ];
     }
 
@@ -96,7 +93,6 @@ class BaseRoute
                 }
 
                 $matches['call'] = $v['call'];
-                $matches['middleware'] = $v['middleware'];
                 break;
             }
         }
