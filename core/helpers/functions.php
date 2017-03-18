@@ -7,7 +7,9 @@ function app()
 
 function config()
 {
-    return app()->set('config', '\core\config\Repository')->bildClass('config');
+    return app()
+        ->set('config', '\core\config\Repository')
+        ->bildClass('config');
 }
 
 function route()

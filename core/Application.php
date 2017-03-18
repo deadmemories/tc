@@ -2,8 +2,6 @@
 
 namespace core;
 
-use core\container\ServiceContainer;
-
 class Application
 {
     /**
@@ -11,7 +9,6 @@ class Application
      */
     public function run(): void
     {
-        ini_set('include_path', '/var/www/tc-framework/');
         // Загружаем классы в приложение из app ( load classes in app from app.required)
         app()->onlyLoadClass(config()->get('app.required'));
 
@@ -20,7 +17,7 @@ class Application
 
         // запускаем роуты ( init routers)
         require '../app/routers/main.php';
-        (new \Route)->initRouters();
+        (new \Route)->startRoute();
     }
 
     /**

@@ -2,23 +2,32 @@
 
 namespace app\controllers\index;
 
+use app\models\User;
+use core\validate\Validate;
+
 class MainController
 {
     public function methodName()
     {
-        $login = 'qqq';
-
-        view('index', compact('login'));
+        $user = new User;
+        dd($user->delete(58));
     }
-
     public function getPost()
     {
-        $images = [];
-        dd(request()->uploadedFiles);
-//        foreach ($request->uploadedFiles->image as $k) {
-//            $images[] = collect([$k])->except(['error', 'tmp_name'])->all();
-//        }
+        $request = new \Request;
 
-//        dd($images);
+        $validate = new Validate;
+
+        $validate->rules($request->getAll(), [
+                'login'    => 'required|min:5|max:15',
+                'password' => 'required|min:2|max:10',
+            ]
+        );
+
+        if ($validate->isValid()) {
+            echo 'success';
+        } else {
+            dd($validate->getErrors());
+        }
     }
 }

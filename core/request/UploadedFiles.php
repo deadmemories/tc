@@ -7,21 +7,9 @@ use core\traits\UploadedHelper\UploadedHelper;
 class UploadedFiles
 {
     /**
-     * UploadFiles constructor.
-     */
-    public function __construct()
-    {
-        if (empty($_FILES)) {
-            return null;
-        }
-
-        return $this->getFiles();
-    }
-
-    /**
      * @return mixed
      */
-    private function getFiles()
+    public function getFiles()
     {
         $files = [];
         $name = array_keys($_FILES)[0];

@@ -30,6 +30,7 @@ class Repository
      * @param string $key
      *
      * @return mixed
+     * @throws \Exception
      */
     public function get(string $key)
     {
@@ -38,10 +39,14 @@ class Repository
 
         unset($path[0]);
 
-        $key = implode('.', $path);
-
         $this->load($file);
 
-        return $this->file[$key];
+        if (2 == count($path) && is_array($this->file[$path[1]])) {
+            return $this->file[$path[1]][$path[2]];
+        } elseif (2 > count($path)) {
+            return $this->file[implode('.', $path)];
+        } else {
+            throw new \Exception('Not more 2 length pls..');
+        }
     }
 }

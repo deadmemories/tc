@@ -10,7 +10,7 @@ class Collection implements CollectionInterface
     /**
      * @var array
      */
-    protected $data = [];
+    protected $items = [];
 
     /**
      * Collection constructor.
@@ -21,7 +21,7 @@ class Collection implements CollectionInterface
      */
     public function __construct(array $items = [])
     {
-        if ( ! is_array($items)) {
+        if (! is_array($items)) {
             throw new CollectionException('Arguments must be array');
         }
 
@@ -36,7 +36,7 @@ class Collection implements CollectionInterface
      */
     public function set(string $key, $value): void
     {
-        $this->data[$key] = $value;
+        $this->items[$key] = $value;
     }
 
     /**
@@ -50,7 +50,7 @@ class Collection implements CollectionInterface
     public function get(string $key, $default = null)
     {
         return $this->has($key)
-            ? $this->data[$key]
+            ? $this->items[$key]
             : $default;
     }
 
@@ -73,7 +73,7 @@ class Collection implements CollectionInterface
      */
     public function has(string $key): bool
     {
-        return array_key_exists($key, $this->data);
+        return array_key_exists($key, $this->items);
     }
 
     /**
@@ -81,7 +81,7 @@ class Collection implements CollectionInterface
      */
     public function remove(string $key): void
     {
-        unset($this->data[$key]);
+        unset($this->items[$key]);
     }
 
     /**
@@ -89,7 +89,7 @@ class Collection implements CollectionInterface
      */
     public function all(): array
     {
-        return $this->data;
+        return $this->items;
     }
 
     /**
@@ -144,7 +144,7 @@ class Collection implements CollectionInterface
 
         foreach ($keys as $k) {
             if ($this->has($k)) {
-                $array[$k] = $this->data[$k];
+                $array[$k] = $this->items[$k];
             }
         }
 
@@ -156,7 +156,7 @@ class Collection implements CollectionInterface
      */
     public function clear(): void
     {
-        $this->data = [];
+        $this->items = [];
     }
 
     /**
@@ -164,6 +164,6 @@ class Collection implements CollectionInterface
      */
     public function count(): int
     {
-        return count($this->data);
+        return count($this->items);
     }
 }

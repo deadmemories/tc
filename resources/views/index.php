@@ -11,8 +11,9 @@
 
     <form action="/test" method="post" enctype="multipart/form-data">
         <input type="text" name="login"><br>
+        <input type="text" name="password"><br>
         <input type="file" name="image">
-        <submit>Go</submit>
+        <button>Go</button>
     </form>
 
 </body>

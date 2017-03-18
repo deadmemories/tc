@@ -12,5 +12,4 @@ Route::get(
         'name',
         'name2',
     ],
-]
-);
+]);
