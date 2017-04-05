@@ -33,9 +33,7 @@ class Router extends BaseRoute
      * @param $func
      * @param $args
      */
-    public static function __callStatic($func, $args)
-    {
-    }
+    public static function __callStatic($func, $args) { }
 
     public function __call($func, $args)
     {

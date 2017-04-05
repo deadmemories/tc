@@ -4,6 +4,9 @@ namespace core\harry;
 
 class HarryPotter
 {
+    /**
+     * @var mixed
+     */
     public $data;
 
     /**

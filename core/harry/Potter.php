@@ -48,10 +48,10 @@ class Potter
     private $bindings
         = [
             'select' => [],
-            'join'   => [],
-            'where'  => [],
+            'join' => [],
+            'where' => [],
             'having' => [],
-            'order'  => []
+            'order' => [],
         ];
 
     /**
@@ -94,62 +94,25 @@ class Potter
      *
      * @param string $setTable используется для колбека при джоине
      */
-    public function __construct($setTable = '')
+    public function __construct(string $setTable = '')
     {
         $this->rows = collect();
         $this->undefinedProperty = collect();
 
-        // если в модели (из которой идет вызов) нету свойства $table и записывает в $table название таблицы на
-        // основе 'modelName' + 's'
-        if (empty($this->table) && 0 == strlen($setTable)) {
-            $this->table = strtolower(end(explode('\\', get_called_class())).'s');
-        } elseif (1 < strlen($setTable)) {
-            $this->table = $setTable;
-        }
+        $this->tableNameToProperty();
 
         $this->db = is_null($this->db)
             ? ConnectDatabase::instance()
             : $this->db;
 
-        // Берем все поля из таблицы
-        $stmt = $this->db->query("SHOW FIELDS FROM $this->table")->fetchAll();
-
-        // Записываем каждое поле(ячейку) в $rows
-        foreach ($stmt as $k => $v) {
-            $this->rows->set(
-                $v['Field'],
-                [
-                    'type'    => $v['Type'],
-                    'default' => $v['Default']
-                ]
-            );
-        }
-    }
-
-    /**
-     * Метод записывает все необъявленные свойства в $undefinedProperty (ячейки таблицы)
-     *
-     * @param $name
-     * @param $data
-     *
-     * @throws PotterException
-     */
-    public function __set($name, $data)
-    {
-        if ($this->rows->has($name)) {
-            $this->undefinedProperty->set($name, $data);
-        } else {
-            throw new PotterException("Incorrect field ( $name ) name");
-        }
+        $this->rowsToProperty();
     }
 
     /**
      * @param array $columns
-     *
-     * @return $this
-     * @throws PotterException
+     * @return Potter
      */
-    public function select($columns = ['*'])
+    public function select($columns = ['*']): Potter
     {
         $this->columns = is_array($columns) ? $columns : func_get_args();
 
@@ -158,13 +121,12 @@ class Potter
 
     /**
      * @param string $table
-     * @param        $column
+     * @param $column
      * @param string $equally
      * @param string $entityColumn
-     *
-     * @return $this
+     * @return Potter
      */
-    public function leftJoin(string $table, $column, $equally = '=', string $entityColumn = '')
+    public function leftJoin(string $table, $column, string $equally = '=', string $entityColumn = ''): Potter
     {
         if ($column instanceof \Closure) {
             $this->closureJoin($table, $column);
@@ -177,12 +139,11 @@ class Potter
 
     /**
      * @param string $table
-     * @param        $column
+     * @param $column
      * @param string $entityColumn
-     *
-     * @return $this
+     * @return Potter
      */
-    public function rightJoin(string $table, $column, string $entityColumn)
+    public function rightJoin(string $table, $column, string $entityColumn): Potter
     {
         $this->joins .= "RIGHT JOIN $table ON $column = $entityColumn ";
 
@@ -191,12 +152,11 @@ class Potter
 
     /**
      * @param string $table
-     * @param        $column
+     * @param $column
      * @param string $entityColumn
-     *
-     * @return $this
+     * @return Potter
      */
-    public function innerJoin(string $table, $column, string $entityColumn)
+    public function innerJoin(string $table, $column, string $entityColumn): Potter
     {
         $this->joins .= "INNER JOIN $table ON $column = $entityColumn ";
 
@@ -206,23 +166,20 @@ class Potter
     /**
      * @param string $column
      * @param string $operator
-     * @param        $value
-     *
-     * @return $this
+     * @param $value
      */
-    public function where(string $column, $operator = '=', $value)
+    public function where(string $column, string $operator = '=', $value): void
     {
         $this->wheres[] = [
-            'column'   => $column,
+            'column' => $column,
             'operator' => $operator,
-            'value'    => $value,
-            'and'      => empty($this->wheres) ? false : true
+            'value' => $value,
+            'and' => empty($this->wheres) ? false : true,
         ];
     }
 
     /**
      * @param int $id
-     *
      * @return mixed
      * @throws PotterException
      */
@@ -238,8 +195,7 @@ class Potter
 
         $data = $this->get();
 
-
-        if (! $data) {
+        if (!$data) {
             throw new PotterException('Incorrect id for findId');
         }
 
@@ -254,7 +210,7 @@ class Potter
     /**
      * @param int $key
      */
-    public function limit(int $key)
+    public function limit(int $key): void
     {
         $this->limit = $key;
     }
@@ -289,36 +245,21 @@ class Potter
     }
 
     /**
-     * Метод для сохранения записи
+     * @return bool|mixed
      */
     public function save()
     {
         // Если обновляем пост...
-        if (! empty($this->dataAfterLastSave)) {
+        if (!empty($this->dataAfterLastSave)) {
             return $this->update();
         }
 
-        $keys = '';
-        $values = '';
-        foreach ($this->undefinedProperty->all() as $k => $v) {
-            // Если больше одной записи - ставим запятую
-            $keys .= 0 != strlen($keys)
-                ? ", $k"
-                : $k;
-
-            // Аналогично выше
-            $values .= 0 != strlen($values)
-                ? ', '.$this->changeColumnsForBindings($k)
-                : $this->changeColumnsForBindings($k);
-
-            // Значения для PDO execute
-            $array[] = $v;
-            $this->undefinedProperty = $array;
-        }
+        $keys = $this->getKeysForSave();
+        $values = $this->getValuesForSave();
 
         $result = $this->insert($keys, $values);
 
-        if (! $result) {
+        if (!$result) {
             return false;
         }
 
@@ -331,6 +272,7 @@ class Potter
     /**
      * @param string $keys
      * @param string $values
+     * @return mixed
      */
     public function insert(string $keys, string $values)
     {
@@ -344,25 +286,16 @@ class Potter
     }
 
     /**
-     * @return mixed
+     * @return bool
      * @throws PotterException
      */
-    public function update()
+    public function update(): bool
     {
         if (empty($this->undefinedProperty)) {
             throw new PotterException('Incorrect property for update');
         }
 
-        $values = '';
-
-        foreach ($this->undefinedProperty->all() as $k => $v) {
-            $values .= 0 == strlen($values)
-                ? $k.' = '.$this->changeColumnsForBindings($k)
-                : ', '.$k.' = '.$this->changeColumnsForBindings($k);
-
-            $array[] = $v;
-            $this->undefinedProperty = $array;
-        }
+        $values = $this->getValuesForUpdate();
 
         $sql = 'UPDATE '.$this->table.' SET '.$values.' WHERE id = '.$this->id;
 
@@ -371,7 +304,7 @@ class Potter
 
         $result = $stmt->execute($this->undefinedProperty);
 
-        if (! $result) {
+        if (!$result) {
             return false;
         }
 
@@ -383,7 +316,6 @@ class Potter
 
     /**
      * @param int $id
-     *
      * @return mixed
      */
     public function delete(int $id)
@@ -396,6 +328,7 @@ class Potter
 
         return $result;
     }
+
     /**
      * Возвращает все записи
      *
@@ -420,23 +353,7 @@ class Potter
         // Работа с условиями
         $this->wheresForSql();
 
-        $sql = '';
-
-        if (! empty($this->bindings['select'])) {
-            $sql .= 'SELECT '.$this->bindings['select'].' FROM '.$this->table.' ';
-        }
-
-        if (! empty($this->bindings['join'])) {
-            $sql .= $this->bindings['join'];
-        }
-
-        if (! empty($this->bindings['where'])) {
-            $sql .= $this->bindings['where'];
-        }
-
-        if (! empty($this->limit)) {
-            $sql .= ' LIMIT '.$this->limit;
-        }
+        $sql = $this->getSql();
 
         return $sql;
     }
@@ -455,7 +372,6 @@ class Potter
             $columns = implode($this->columns, implode([',']));
         }
 
-
         $this->bindings['select'] = $columns;
     }
 
@@ -464,7 +380,7 @@ class Potter
      */
     private function joinsForSql(): void
     {
-        if (! empty($this->joins)) {
+        if (!empty($this->joins)) {
             $this->bindings['join'] = $this->joins;
         }
     }
@@ -496,7 +412,7 @@ class Potter
         // Присваиваем данные, чтобы использовать потом для запроса
         $this->wheres = $key;
 
-        if (! empty($this->wheres)) {
+        if (!empty($this->wheres)) {
             $this->bindings['where'] = $sql;
         }
     }
@@ -572,7 +488,7 @@ class Potter
     /**
      * @param int $id
      */
-    private function dataAfterSave($id = 0)
+    private function dataAfterSave(int $id = 0): void
     {
         if (0 == $id) {
             $id = (int) $this->db->lastInsertId();
@@ -588,10 +504,145 @@ class Potter
      */
     public function __get($key)
     {
-        if (! is_null($this->dataAfterLastSave) && $this->dataAfterLastSave->has($key)) {
+        if (!is_null($this->dataAfterLastSave) && $this->dataAfterLastSave->has($key)) {
             return $this->dataAfterLastSave->get($key);
         }
 
         return false;
+    }
+
+    /**
+     * set all rows of current table
+     */
+    private function rowsToProperty(): void
+    {
+        // Берем все поля из таблицы
+        $stmt = $this->db->query("SHOW FIELDS FROM $this->table")->fetchAll();
+
+        // Записываем каждое поле(ячейку) в $rows
+        foreach ($stmt as $k => $v) {
+            $this->rows->set(
+                $v['Field'],
+                [
+                    'type' => $v['Type'],
+                    'default' => $v['Default'],
+                ]
+            );
+        }
+    }
+
+    /**
+     * set table name to $table
+     */
+    private function tableNameToProperty(): void
+    {
+        // если в модели (из которой идет вызов) нету свойства $table и записывает в $table название таблицы на
+        // основе 'modelName' + 's'
+        if (empty($this->table) && 0 == strlen($setTable)) {
+            $this->table = strtolower(end(explode('\\', get_called_class())).'s');
+        } elseif (1 < strlen($setTable)) {
+            $this->table = $setTable;
+        }
+    }
+
+
+    /**
+     * Метод записывает все необъявленные свойства в $undefinedProperty (ячейки таблицы)
+     *
+     * @param $name
+     * @param $data
+     *
+     * @throws PotterException
+     */
+    public function __set($name, $data)
+    {
+        if ($this->rows->has($name)) {
+            $this->undefinedProperty->set($name, $data);
+        } else {
+            throw new PotterException("Incorrect field ( $name ) name");
+        }
+    }
+
+    /**
+     * @return string
+     */
+    private function getKeysForSave(): string
+    {
+        $keys = '';
+
+        foreach ($this->undefinedProperty->all() as $k => $v) {
+            // Если больше одной записи - ставим запятую
+            $keys .= 0 != strlen($keys)
+                ? ", $k"
+                : $k;
+        }
+
+        return $keys;
+    }
+
+    /**
+     * @return string
+     */
+    private function getValuesForSave(): string
+    {
+        $values = '';
+
+        foreach ($this->undefinedProperty->all() as $k => $v) {
+            // Если больше одной записи - ставим запятую
+            $values .= 0 != strlen($values)
+                ? ', '.$this->changeColumnsForBindings($k)
+                : $this->changeColumnsForBindings($k);
+
+            // Значения для PDO execute
+            $array[] = $v;
+            $this->undefinedProperty = $array;
+        }
+
+        return $values;
+    }
+
+    /**
+     * @return string
+     */
+    private function getValuesForUpdate(): string
+    {
+        $values = '';
+
+        foreach ($this->undefinedProperty->all() as $k => $v) {
+            $values .= 0 == strlen($values)
+                ? $k.' = '.$this->changeColumnsForBindings($k)
+                : ', '.$k.' = '.$this->changeColumnsForBindings($k);
+
+            $array[] = $v;
+            $this->undefinedProperty = $array;
+        }
+
+        return $values;
+    }
+
+    /**
+     * @return string
+     */
+    private function getSql(): string
+    {
+        $sql = '';
+
+        if (!empty($this->bindings['select'])) {
+            $sql .= 'SELECT '.$this->bindings['select'].' FROM '.$this->table.' ';
+        }
+
+        if (!empty($this->bindings['join'])) {
+            $sql .= $this->bindings['join'];
+        }
+
+        if (!empty($this->bindings['where'])) {
+            $sql .= $this->bindings['where'];
+        }
+
+        if (!empty($this->limit)) {
+            $sql .= ' LIMIT '.$this->limit;
+        }
+
+        return $sql;
     }
 }

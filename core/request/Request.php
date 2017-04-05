@@ -49,23 +49,18 @@ class Request
     }
 
     /**
-     * @param      $name
+     * @param string $name
      * @param null $default
-     *
-     * @return array|mixed|string
+     * @return array|string
      */
-    public function input($name, $default = null)
+    public function input(string $name, $default = null)
     {
         $data = [];
 
         if (is_array($name)) {
-            foreach ($name as $k) {
-                $data[$k] = $this->cleanData($_POST[$k]);
-            }
+            $data = $this->getInputsForArray($name);
         } else {
-            $data = empty($_POST[$name])
-                ? $default
-                : $this->cleanData($_POST[$name]);
+            $data = $this->getInputsForString($name, $default);
         }
 
         return $data;
@@ -76,7 +71,7 @@ class Request
      *
      * @return bool
      */
-    public function has(string $name)
+    public function has(string $name): bool
     {
         return ! empty($this->input($name))
             ? true
@@ -106,5 +101,32 @@ class Request
     private function cleanData($data)
     {
         return strip_tags(htmlspecialchars($data));
+    }
+
+    /**
+     * @param string $name
+     * @return array
+     */
+    private function getInputsForArray(string $name): array
+    {
+        $data = [];
+
+        foreach ($name as $k) {
+            $data[$k] = $this->cleanData($_POST[$k]);
+        }
+
+        return $data;
+    }
+
+    /**
+     * @param string $name
+     * @param $default
+     * @return string
+     */
+    private function getInputsForString(string $name, $default): string
+    {
+        return empty($_POST[$name])
+            ? $default
+            : $this->cleanData($_POST[$name]);
     }
 }

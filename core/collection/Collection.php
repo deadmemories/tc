@@ -21,10 +21,6 @@ class Collection implements CollectionInterface
      */
     public function __construct(array $items = [])
     {
-        if (! is_array($items)) {
-            throw new CollectionException('Arguments must be array');
-        }
-
         $this->replace($items);
     }
 
@@ -43,7 +39,7 @@ class Collection implements CollectionInterface
      * Get collection item
      *
      * @param string $key
-     * @param null   $default
+     * @param null $default
      *
      * @return mixed|null
      */

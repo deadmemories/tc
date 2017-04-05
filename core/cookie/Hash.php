@@ -8,11 +8,10 @@ const CIPHER_METHOD = 'AES-256-CBC';
 class Hash
 {
     /**
-     * @param $key
-     *
+     * @param string $key
      * @return mixed
      */
-    public static function encrypt($key)
+    public static function encrypt( string $key)
     {
         $iv_length = openssl_cipher_iv_length(CIPHER_METHOD);
         $iv = openssl_random_pseudo_bytes($iv_length);
@@ -23,11 +22,10 @@ class Hash
     }
 
     /**
-     * @param $key
-     *
+     * @param string $key
      * @return string
      */
-    public static function decrypt($key)
+    public static function decrypt(string $key): string
     {
         $val = str_replace(['_', '-', '.'], ['+', '/', '='], $key);
         $data = base64_decode($val);

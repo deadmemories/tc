@@ -9,6 +9,9 @@ class ConnectDatabase
      */
     protected static $instance;
 
+    /**
+     * @return object
+     */
     public static function instance()
     {
         if (is_null(static::$instance)) {
@@ -19,9 +22,9 @@ class ConnectDatabase
     }
 
     /**
-     *
+     * @return \PDO
      */
-    private static function connect()
+    private static function connect(): \PDO
     {
         $dsn = 'mysql:host='.config()->get('app.database.host').';dbname='.config()->get('app.database.db').';charset='
             .config()->get('app.database.charset');

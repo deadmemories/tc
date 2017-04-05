@@ -27,10 +27,10 @@ class ServiceContainer
     /**
      * @return ServiceContainer
      */
-    public static function getInstance()
+    public static function getInstance(): ServiceContainer
     {
         if (is_null(static::$instance)) {
-            static::$instance = new static;
+            static::$instance = new static();
         }
 
         return static::$instance;
@@ -38,14 +38,13 @@ class ServiceContainer
 
     /**
      * @param string $key
-     * @param        $object
-     * @param bool   $singleton
-     *
-     * @return $this|void
+     * @param $object
+     * @param bool $singleton
+     * @return ServiceContainer
      */
-    public function set(string $key, $object, $singleton = false)
+    public function set(string $key, $object, $singleton = false): ServiceContainer
     {
-        if (true == $singleton) {
+        if ($singleton) {
             return $this->singleton($key, $object);
         }
 
@@ -55,10 +54,10 @@ class ServiceContainer
     }
 
     /**
-     * @param $key
+     * @param string $key
      * @param $object
      */
-    public function singleton($key, $object)
+    public function singleton(string $key, $object): void
     {
         $this->singletons[$key] = compact('object');
     }
@@ -72,15 +71,15 @@ class ServiceContainer
      */
     public function createAlias(string $key, string $alias)
     {
-        if ( ! array_key_exists($key, $this->bindings)) {
+        if (!$this->hasKeyInArray($key, $this->bindings)) {
             throw new ContainerException('First you must be use set function');
         }
 
-        if (array_key_exists($key, $this->singletons)) {
+        if ($this->hasKeyInArray($key, $this->singletons)) {
             return class_alias($this->singletons[$key]['object'], $alias);
         }
 
-        if ( ! class_exists($this->bindings[$key]['object'])) {
+        if (!$this->hasKeyInArray($this->bindings[$key]['object'])) {
             throw new ContainerException('Incorrect name of class');
         }
 
@@ -89,9 +88,7 @@ class ServiceContainer
 
     /**
      * @param string $key
-     *
-     * @param null   $params
-     *
+     * @param null $params
      * @return mixed
      * @throws ContainerException
      */
@@ -99,9 +96,9 @@ class ServiceContainer
     {
         $object = null;
 
-        if (array_key_exists($key, $this->singletons)) {
+        if ($this->hasKeyInArray($key, $this->singletons)) {
             $object = $this->singletons[$key]['object'];
-        } elseif (array_key_exists($key, $this->bindings)) {
+        } elseif ($this->hasKeyInArray($key, $this->bindings)) {
             $object = $this->bindings[$key]['object'];
         } else {
             throw new ContainerException('Incorrect key...');
@@ -112,10 +109,8 @@ class ServiceContainer
 
     /**
      * @param array $classes
-     *
-     * @return mixed
      */
-    public function onlyLoadClass(array $classes)
+    public function onlyLoadClass(array $classes): void
     {
         foreach ($classes as $k) {
             $name = explode('\\', $k);
@@ -124,10 +119,9 @@ class ServiceContainer
     }
 
     /**
-     * @param      $key
+     * @param $key
      * @param null $parameters
-     *
-     * @return mixed
+     * @return bool|mixed|object
      */
     private function instance($key, $parameters = null)
     {
@@ -135,21 +129,46 @@ class ServiceContainer
             return call_user_func_array($key, $parameters);
         }
 
-        if ( ! class_exists($key)) {
+        if (!class_exists($key)) {
             return false;
         }
 
+        return $this->instanceLogic($key, $parameters);
+    }
+
+    private function instanceLogic($key, $parameters)
+    {
         if ('\\' != substr($key, 0, 1)) {
             mb_internal_encoding("UTF-8");
             $key = '\\'.$key;
         }
 
-        if ( ! is_null($parameters)) {
-            $reflection = new \ReflectionClass($key);
-
-            return $reflection->newInstanceArgs($parameters);
+        if (!is_null($parameters)) {
+            return $this->newReflectionClass($key, $parameters);
         } else {
-            return new $key;
+            return new $key();
         }
+    }
+
+    /**
+     * @param $key
+     * @param $parameters
+     * @return object
+     */
+    private function newReflectionClass($key, $parameters)
+    {
+        $reflection = new \ReflectionClass($key);
+
+        return $reflection->newInstanceArgs($parameters);
+    }
+
+    /**
+     * @param string $key
+     * @param array $array
+     * @return bool
+     */
+    private function hasKeyInArray(string $key, array $array): bool
+    {
+        return array_key_exists($key, $array);
     }
 }

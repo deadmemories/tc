@@ -15,13 +15,12 @@ class JoinClause extends Potter
     }
 
     /**
-     * @param        $column
+     * @param string $column
      * @param string $equally
      * @param string $entityColumn
-     *
-     * @return $this
+     * @return JoinClause
      */
-    public function on($column, $equally = '=', string $entityColumn = '')
+    public function on(string $column, string $equally = '=', string $entityColumn = ''): JoinClause
     {
         // Берем название таблицы по джоину
         $key = explode('.', $column)[0];

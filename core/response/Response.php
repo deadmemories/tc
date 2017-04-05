@@ -113,10 +113,9 @@ class Response
 
     /**
      * @param int $code
-     *
-     * @return $this
+     * @return Response
      */
-    public function changeResponseCode(int $code)
+    public function changeResponseCode(int $code): Response
     {
         http_response_code($code);
 

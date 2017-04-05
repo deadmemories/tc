@@ -21,25 +21,25 @@ class Cookie implements CookieInterface
     {
         $this->data = collect([$_COOKIE]);
 
-        return $this->data;
+        return $this->getData();
     }
 
     /**
-     * @param      $key
-     * @param      $value
-     * @param int  $minutes
+     * @param $key
+     * @param $value
+     * @param int $minutes
      * @param null $path
      * @param null $domain
      * @param bool $secure
      * @param bool $httponly
-     *
-     * @return $this
+     * @return Cookie
      */
-    public function set($key, $value, $minutes = 0, $path = null, $domain = null, $secure = false, $httponly = true)
-    {
+    public function set(
+        $key, $value, $minutes = 0, $path = null, $domain = null, $secure = false, $httponly = true
+    ): Cookie {
         $value = Hash::encrypt($value);
 
-        $time = ($minutes == 0)
+        $time = 0 == $minutes
             ? 0
             : Carbon::now()->getTimestamp() + ($minutes * 60);
 
@@ -49,11 +49,10 @@ class Cookie implements CookieInterface
     }
 
     /**
-     * @param $key
-     *
+     * @param string $key
      * @return string
      */
-    public function get($key)
+    public function get(string $key): string
     {
         return $this->has($key)
             ? 'Nothing'
@@ -67,15 +66,15 @@ class Cookie implements CookieInterface
      */
     public function has($key): bool
     {
-        return ! empty($_COOKIE[$key])
+        return !empty($_COOKIE[$key])
             ? true
             : false;
     }
 
     /**
-     * @param $key
+     * @param string $key
      */
-    public function remove($key)
+    public function remove($key): void
     {
         $this->set($key, "0", time() - 1, "/");
     }
@@ -95,7 +94,7 @@ class Cookie implements CookieInterface
     public function __debugInfo()
     {
         return [
-            $this->data
+            $this->data,
         ];
     }
 }
